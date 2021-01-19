@@ -7,5 +7,5 @@ include:
   - README.md
 theme: jekyll-theme-cayman
 title: Intermediate Express MVC
-baseurl: "education-intermediate-express-mvc"
+baseurl: "education-intermediate-express-mvc-2"
 url: ""
